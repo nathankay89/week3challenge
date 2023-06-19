@@ -6,6 +6,10 @@ My motivation behind this project was to create a website that I could utilize t
 
 ## Usage
 
+Deployed application:
+
+http://127.0.0.1:5500/index.html
+
 Resository URL and documents:
 
 https://github.com/nathankay89/week3challenge/tree/main
